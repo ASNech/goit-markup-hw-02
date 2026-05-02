@@ -1,4 +1,4 @@
-header {
+.header {
   background-color: #ffffff;
 }
 
@@ -17,7 +17,9 @@ header {
 }
 
 .header-logo:hover,
-.header-logo-span:hover {
+.header-logo-span:hover,
+.header-logo:focus,
+.header-logo-span:focus {
   color: #404bbf;
 }
 
@@ -28,9 +30,12 @@ header {
 
 .address-list a {
   color: #434455;
+  font-style: normal;
 }
 
 .nav-list a:hover,
-.address-list a:hover {
+.address-list a:hover,
+.nav-list a:focus,
+.address-list a:focus {
   color: #404bbf;
 }
