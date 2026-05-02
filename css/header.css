@@ -1,0 +1,36 @@
+header {
+  background-color: #ffffff;
+}
+
+.header-logo {
+  color: #2e2f42;
+  font-family: 'Raleway';
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.33;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.header-logo-span {
+  color: #4d5ae5;
+}
+
+.header-logo:hover,
+.header-logo-span:hover {
+  color: #404bbf;
+}
+
+.nav-list a {
+  color: #2e2f42;
+  font-weight: 500;
+}
+
+.address-list a {
+  color: #434455;
+}
+
+.nav-list a:hover,
+.address-list a:hover {
+  color: #404bbf;
+}
