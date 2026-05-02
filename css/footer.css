@@ -17,10 +17,3 @@
 .footer-logo-span {
   color: #4d5ae5;
 }
-
-.footer-logo:hover,
-.footer-logo-span:hover,
-.footer-logo:focus,
-.footer-logo-span:focus {
-  color: #404bbf;
-}
