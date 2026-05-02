@@ -17,3 +17,15 @@
 .footer-logo-span {
   color: #4d5ae5;
 }
+
+.footer-logo:hover,
+.footer-logo:focus,
+.footer-logo:active {
+  color: #f4f4fd;
+}
+
+.footer-logo-span:hover,
+.footer-logo-span:focus,
+.footer-logo-span:active {
+  color: #4d5ae5;
+}

@@ -16,12 +16,12 @@
   color: #4d5ae5;
 }
 
-.header-logo:hover,
+/* .header-logo:hover,
 .header-logo-span:hover,
 .header-logo:focus,
 .header-logo-span:focus {
   color: #404bbf;
-}
+} */
 
 .nav-list a {
   color: #2e2f42;
